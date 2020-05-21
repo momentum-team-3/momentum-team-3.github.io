@@ -38,7 +38,7 @@ This assignment is due on Tuesday, May 26, at 9:30 am.
 
 - [Practical Color Theory for People Who Code](https://tallys.github.io/color-theory/)
 - [Typography for Developers](https://tallys.github.io/color-theory/)
--
+
 
 ### Code, slides, and video from class
 
