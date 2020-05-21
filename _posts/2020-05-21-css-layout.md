@@ -27,17 +27,32 @@ This assignment is due on Tuesday, May 26, at 9:30 am.
 - [More Flexbox with gifs](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/#.mmcrvo7pu)
 - [CSS-Tricks Flexbox Layout Thought Process](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)
 - [CSS-Tricks flex property](https://css-tricks.com/almanac/properties/f/flex/)
+- [CSS-Tricks Guide to Centering Things](https://css-tricks.com/centering-css-complete-guide/)
 - [MDN Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [How to use media queries alongside Grid and Flexbox](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
-- [Jen Simmons: Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-- [10 Cheat Codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
-- [7 Rules for Creating Gorgeous UIs](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 
 
 #### Design
 
+- [10 Cheat Codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
+- [7 Rules for Creating Gorgeous UIs](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+- [7 Rules Part Two](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
 - [Practical Color Theory for People Who Code](https://tallys.github.io/color-theory/)
 - [Typography for Developers](https://tallys.github.io/color-theory/)
+
+#### ⭐️EXTRA/TMI
+
+We aren't using grid or floats in class, but you may want to familiarize yourself at some point. Here are some references.
+
+- [CSS-Tricks Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Floats 101 Demo](https://codepen.io/amygori/pen/BmEmGg)
+- [Simple float example](https://codepen.io/amygori/pen/qVwVjX)
+
+Jen Simmons is a Mozilla developer and educator with a great series on YouTube to teach you css layout best practices using grid and flexbox.
+
+- [Jen Simmons: Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+
+
 
 
 ### Code, slides, and video from class
