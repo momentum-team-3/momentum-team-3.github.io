@@ -43,4 +43,4 @@ This assignment is due on Tuesday, May 26, at 9:30 am.
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/css-layout.pdf)
-- [flexbox demo code](https://github.com/momentum-team-1/examples/tree/master/css-flexbox)
+- [flexbox demo code](https://github.com/momentum-team-2/examples/tree/master/css-flexbox)
