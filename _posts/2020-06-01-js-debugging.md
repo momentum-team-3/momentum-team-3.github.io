@@ -36,4 +36,4 @@ There's a an awesome article about _stacks_, which we encounter in a _stack trac
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-debugging.pdf)
-
+- [morning class video](https://us02web.zoom.us/rec/share/5d5vJev97GJJaYHK7kDCZoImXdzreaa82nJP-6JZnUTzctitlfXDKDfHbpPEo2E) Access Password: 0w^2G9c^
