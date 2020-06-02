@@ -26,4 +26,6 @@ tags: phase-1 javascript js objects
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-objects.pdf)
-
+- [demo from class with menu items](https://github.com/momentum-team-2/examples/tree/master/using-object-data) -- go back a few commits to see the original version before I refactored to break things up into functions, so you can see the progression
+- [morning class video](https://us02web.zoom.us/rec/share/6OJWdrzSxDpLRYHr113VSpYAR7_aT6a8hyVL-vdZy0g2dUFhm1GEUgVBPS8_4GCO) Access Password: 4N=@12h6
+- [afternoon class video](https://us02web.zoom.us/rec/share/5N5ODonA6kJOTonqyB7QcZU8QpThT6a80CEc8qEEzh3thrJrBy2Y1vOUIvyD9sPX) Access Password: 9b%W5*4#
