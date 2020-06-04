@@ -18,6 +18,7 @@ tags: phase-1 javascript js fetch ajax JSON APIs
 
 ### Links and resources
 
+- [json-server documentation](https://github.com/typicode/json-server#getting-started)
 - [MDN HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [HTTP status codes](https://httpstatuses.com/)
 - [Using the Network Tab in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/network)
@@ -35,5 +36,6 @@ For more information about how the internet works and the mechanics of a request
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-ajax.pdf)
-
-
+- [todo app example](https://github.com/momentum-team-2/examples/tree/master/ajax-todo)
+- [morning class video](https://us02web.zoom.us/rec/share/2tdUIaH52WxOeafpw3yCSq8rDK35T6a80ygX_PJcnUo-pUGuW025UDkz6pXrRZmz) Access Password: 3t#w!2^1
+- [afternoon class video](https://us02web.zoom.us/rec/share/vv1UcoPyr0FJQtbW0meHU7AvHKfcX6a8hiQfqfVen04QuPwUeuAXVUQ2_lG205WI) Access Password: 8Y^47B=6
