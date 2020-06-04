@@ -14,7 +14,7 @@ tags: phase-1 javascript js fetch ajax JSON APIs
 
 #### Create a single page note-taking app
 
-[Link to assignment invitation](https://classroom.github.com/a/LFurENx8)
+[Link to assignment invitation](https://classroom.github.com/a/f7-LMLev)
 
 ### Links and resources
 
