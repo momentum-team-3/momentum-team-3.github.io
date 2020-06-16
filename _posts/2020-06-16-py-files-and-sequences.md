@@ -4,7 +4,7 @@ title: Python Sequences and Files
 tags: phase-2 python sequences lists tuples files
 ---
 
-In Python, we use the generic term "sequence" for any object that provides an ordered structure for a number of items, such as a string (a group of characters), a list, and a dictionary (keys and values).
+We can use the generic term _sequence_ for any object that provides an ordered structure for a number of items, such as a string (a group of characters), a list, or a dictionary (keys and values).
 
 ## Today's topics
 
@@ -19,7 +19,7 @@ In Python, we use the generic term "sequence" for any object that provides an or
 
 ## Project
 
-You'll be doing this assignment for the next two days, and we'll do part of it in class.
+You'll be doing this assignment for the next two days, and we'll work on parts of it in class.
 
 [Word Frequency](https://classroom.github.com/a/JV8OUl5m)
 
