@@ -12,8 +12,8 @@ Write a function called `remove_from_list` that takes a list of items and an ite
 The function should return a new list with the item removed. Write code to test your function, like the following:
 
 ```py
-remove_from_list([“Dallas”, ”Kelly”, ”Courtney”, “Hayden”, “Chase”], “Hayden”)
-# should return  [“Dallas”, ”Kelly”, ”Courtney”, “Chase”]
+remove_from_list(['Dallas', 'Kelly', 'Courtney', 'Hayden', 'Chase'], 'Hayden')
+# should return  ['Dallas', 'Kelly', 'Courtney', 'Chase']
 ```
 
 Make sure your function removes all instances of the item. Write code to test this.
