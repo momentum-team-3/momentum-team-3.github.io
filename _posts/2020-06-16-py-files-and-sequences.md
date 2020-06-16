@@ -31,3 +31,4 @@ You'll be doing this assignment for the next two days, and we'll work on parts o
   - [Python Docs: Methods and Operations to Use with Sequences](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
   - [Python Docs: Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
 - [Python Docs: Common String Operations](https://docs.python.org/3/library/string.html)
+- [Python Docs: String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
