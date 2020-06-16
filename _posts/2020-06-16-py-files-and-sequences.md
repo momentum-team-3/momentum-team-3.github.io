@@ -28,4 +28,5 @@ You'll be doing this assignment for the next two days, and we'll work on parts o
 * [Python notebooks](https://github.com/momentum-team-2/examples/tree/master/python-notebooks)
 * [A Byte of Python](https://python.swaroopch.com/)
 - [Python Docs: Sequence Types](https://docs.python.org/3/library/stdtypes.html?highlight=sequences#sequence-types-list-tuple-range)
-- [Python Docs: Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+  - [Python Docs: Methods and Operations to Use with Sequences](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+  - [Python Docs: Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
