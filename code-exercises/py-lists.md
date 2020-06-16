@@ -26,3 +26,11 @@ remove_from_list(['MI', 'AK', 'SC', 'AK', 'DE'], 'AK')
 ### exercise 2
 
 Write a function `remove_many_from_list(list_of_items, items_to_remove)` that takes two lists, a list of items, and a list of items to remove from that original list. You can re-use `remove_from_list` or write it from scratch.
+
+```py
+ingredients = ["onions", "habanero hot sauce",  "tomatoes", "tortillas", "corn", "black beans", "avocados", "cheese"]
+foods_my_kids_hate = ["habanero hot sauce", "avocados"]
+
+remove_many_from_list(ingredients, foods_my_kids_hate)
+# should return ["onions", "tomatoes", "tortillas", "corn", "black beans", "cheese"]
+```
