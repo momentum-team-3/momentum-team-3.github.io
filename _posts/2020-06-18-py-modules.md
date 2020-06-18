@@ -57,3 +57,6 @@ Don't forget to use your print statements to give you necessary information as y
   - [Clinton's Answer](https://github.com/momentumlearn/student-resources/blob/master/articles/pymain.md)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python notebooks](https://github.com/momentum-team-2/examples/tree/master/python-notebooks)
+
+### Code from class
+- [Mystery Word starter code](https://github.com/momentum-team-2/examples/tree/master/py_mystery_word_starter)
