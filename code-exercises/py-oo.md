@@ -19,7 +19,6 @@ Make a class named `User`. Add the following attributes to your class:
 - `city`
 - `state`
 
-
 Create two different user instances using your class. How can you check their different attributes?
 
 ### Step 2
@@ -27,7 +26,8 @@ Create two different user instances using your class. How can you check their di
 Add a `__str__` method to your class that displays the identity and attributes of an instance.
 
 #### example
-Say you have a `Game` class; that might look like the following:
+
+Say you have a `Game` class; the `__str__` method could look like this (although there are lots of other options!):
 
 ```python
 def __str__(self):
