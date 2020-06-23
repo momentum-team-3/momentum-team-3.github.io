@@ -25,5 +25,9 @@ This is a week-long project, due next Monday.
 * [Django documentation](https://docs.djangoproject.com/en/3.0/)
 * [Django Topic Guide](https://docs.djangoproject.com/en/3.0/topics/)
 * [MDN Django Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) -> See especially the [Intro section](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
-* [DB Browser for SQLite](https://sqlitebrowser.org/) -> This is a free and open source GUI (or _graphical user interface_) for inspecting your the structure of and tables in your database.
+* [DB Browser for SQLite](https://sqlitebrowser.org/) -> This is a free and open source GUI (or _graphical user interface_) for inspecting the structure of and tables in a database. A SQLite database is just a file (this isn't true of all databases), so you can just open the `db.sqlite3` file that's in your project from within DB Browser for SQLite.
 
+## Class Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/vdYyK7Dy8n9LY6Pm41HdZvYbLIbUeaa81HRLrPdcn0ePJVGnsj8oNT0CbBYsr8tx) Access Password: 1w*^013R
+- [Afternoon](https://us02web.zoom.us/rec/share/-8lxdJzLyXtOGbfJs1zgRpx_ELzgeaa82yAX_qVfyBogL8xUm4LGao5PxfhGGLm5) Access Password: 0r=x455h
