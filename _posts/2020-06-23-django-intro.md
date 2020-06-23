@@ -18,7 +18,12 @@ This is a week-long project, due next Monday.
 
 ## Resources
 
-* [Poetry](https://python-poetry.org/)
+*  [Julia Evans Networking Zine](https://jvns.ca/networking-zine.pdf) -> This is a lot of info but for now take a look at the part about HTTP messages.
 * [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Poetry](https://python-poetry.org/)
 * [Django documentation](https://docs.djangoproject.com/en/3.0/)
+* [Django Topic Guide](https://docs.djangoproject.com/en/3.0/topics/)
+* [MDN Django Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) -> See especially the [Intro section](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+* [DB Browser for SQLite](https://sqlitebrowser.org/) -> This is a free and open source GUI (or _graphical user interface_) for inspecting your the structure of and tables in your database.
+
