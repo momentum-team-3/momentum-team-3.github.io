@@ -13,6 +13,8 @@ You've now seen how to handle data in a Django application with basic operations
 
 At the heart of many web applications you'll find variations on this theme, so we'll continue to practice it.
 
+Today we'll add in another essential part of web applications: user registration and login.
+
 ## Django Music project review
 
 * What was one AHA 💡 moment you had?
