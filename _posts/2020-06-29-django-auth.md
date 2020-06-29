@@ -32,3 +32,7 @@ This is a 3-day assignment that you'll work on all week. It is due on Thursday, 
 * [Momentum Django project template](https://github.com/momentumlearn/django-project-template)
 * [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
 * [Python dependency management overview](https://modelpredict.com/python-dependency-management-tools) - good read to understand pip and poetry better
+
+## 💥 Django Cheatsheet!
+
+[This is a handy reference.](https://github.com/lucrae/django-cheat-sheet)
