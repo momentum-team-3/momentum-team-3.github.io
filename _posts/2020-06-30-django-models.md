@@ -18,6 +18,6 @@ Continue working on Freeshelf.
 * [Tips for using Django's Many-to-Many Field](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
 * [What is an Entity Relationship Diagram?](https://www.lucidchart.com/pages/er-diagrams) - The first video is especially good.
 
-## ⭐EXTRA/TMI
+### ⭐EXTRA/TMI
 
 * [Python Decorators](https://realpython.com/primer-on-python-decorators/)
