@@ -24,3 +24,8 @@ Your FreeShelf application is due tomorrow morning.
 - [Creating Interactive Views in Django](https://hackersandslackers.com/creating-django-views/) - great post really breaking down views
 - [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
 - [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/3.0/ref/models/relations/)
+
+
+## Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/ppJVC4zArV9OY5XhtxHjQ6ACDrzjaaa8gCkdq_IFzErhSg9IcyWVKdacKyy-Gj7N) Access Password: 1A?P1324
