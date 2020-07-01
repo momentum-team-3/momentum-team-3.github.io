@@ -24,8 +24,13 @@ Your FreeShelf application is due tomorrow morning.
 - [Creating Interactive Views in Django](https://hackersandslackers.com/creating-django-views/) - great post really breaking down views
 - [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
 - [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/3.0/ref/models/relations/)
-
+- [Django Docs: Built-in Template Tags and Filters](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/)
 
 ## Videos
 
 - [Morning](https://us02web.zoom.us/rec/share/ppJVC4zArV9OY5XhtxHjQ6ACDrzjaaa8gCkdq_IFzErhSg9IcyWVKdacKyy-Gj7N) Access Password: 1A?P1324
+- [Afternoon]() _this is still processing and but I expect that it will be available soon!_
+
+## Code from class
+
+- [music app with albums and now genres](https://github.com/momentum-team-2/examples/tree/master/django-music-with-auth)
