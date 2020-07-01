@@ -23,3 +23,4 @@ Your FreeShelf application is due tomorrow morning.
 - [SQLite Docs](https://www.sqlite.org/docs.html)
 - [Creating Interactive Views in Django](https://hackersandslackers.com/creating-django-views/) - great post really breaking down views
 - [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
+- [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/3.0/ref/models/relations/)

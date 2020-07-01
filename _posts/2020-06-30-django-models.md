@@ -21,3 +21,8 @@ Continue working on Freeshelf.
 ### ⭐EXTRA/TMI
 
 * [Python Decorators](https://realpython.com/primer-on-python-decorators/)
+
+## Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/2slED6zo5kVOeaP0xEHGavR_H9X9eaa8hCVLq6UMzhxDJmuY3argRjjLZa1j0IKo) Access Password: 6m@C8*Aw
+- *I'm sorry to say that the afternoon video is not available from Zoom.*
