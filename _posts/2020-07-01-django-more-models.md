@@ -29,7 +29,7 @@ Your FreeShelf application is due tomorrow morning.
 ## Videos
 
 - [Morning](https://us02web.zoom.us/rec/share/ppJVC4zArV9OY5XhtxHjQ6ACDrzjaaa8gCkdq_IFzErhSg9IcyWVKdacKyy-Gj7N) Access Password: 1A?P1324
-- [Afternoon]() _this is still processing and but I expect that it will be available soon!_
+- [Afternoon](https://us02web.zoom.us/rec/share/5swtCL75p0ZLeJXkwUTBc_MGJNrqX6a81ShLrPEInU31IvJlCXWRokOqiB5cPVSE) Access Password: 8R&r7=3+
 
 ## Code from class
 
