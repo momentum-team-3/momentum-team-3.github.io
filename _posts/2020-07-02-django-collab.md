@@ -10,7 +10,9 @@ Today we'll begin our first shared project. This will require more planning, a l
 
 You will work in a shared repo for this and turn in one application that your team will build together. How you share the work is up to you.
 
-[link to assignment](https://classroom.github.com/g/gH_ARkoy)
+[assignment README]({% link django-duplex-assignment.md%})
+
+[github classroom link to assignment](https://classroom.github.com/g/gH_ARkoy)
 
 Teams:
 
