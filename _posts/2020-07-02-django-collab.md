@@ -27,3 +27,12 @@ Teams:
 - [Pair Programming Guide](https://tuple.app/pair-programming-guide/template) -> This template for a pairing session is practical and actionable. There are other resources on this site worth a look as well.
 - [Django cheat sheet](https://github.com/lucrae/django-cheat-sheet) -> This is the same one I posted earlier in the week. If you didn't see it then, you might be glad to see it now.
 - [Django Project Template](https://github.com/momentumlearn/django-project-template) -> This template will give you a django project structured like the same ones you've been working with. You'll still need to run `startaapp` to set up your app.
+
+### Slides from class
+
+- [Git Collaboration Slides](https://slides.com/amy_nc/git-collaboration-week5)
+
+### Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/5pxuDbfi-kxIUs_w43jTRZUIJ57Yaaa8h3dI-vVfzh0ZLqdMfAR5_Sia6I2ycoCC) Access Password: 4D#nu+td
+- [Afternoon](https://us02web.zoom.us/rec/share/4-8yf-3u_zlIQbfN7hH1fLM7OIjXeaa81HUb_aIEnx3KwCCV8uKbJp6UTYfRQDfy) Access Password: 6V=9=^Z5
