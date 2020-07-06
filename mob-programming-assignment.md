@@ -14,7 +14,7 @@ CSS is not important in this project, but you should add minimal styling by simp
 
 You won't be able to do all of this so make some decisions about where to start and what to do later.
 
-The repo we will use and commit to is here: https://github.com/momentum-team-2/django-mob-notes
+The repo we will use and commit to is here: [https://github.com/momentum-team-2/django-mob-notes](https://github.com/momentum-team-2/django-mob-notes)
 
 ## General roadmap for the Product
 
