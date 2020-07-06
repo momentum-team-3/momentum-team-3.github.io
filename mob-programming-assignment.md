@@ -67,48 +67,48 @@ At the end of each shift, add, commit, and push all the code that has been writt
 
 #### shift 1
 
-driver: Shelby
-navigator: Joey
-facilitator: Rajee
-scout: Russell
-contributors: Tyler, Blake
+- driver: Shelby
+- navigator: Joey
+- facilitator: Rajee
+- scout: Russell
+- contributors: Tyler, Blake
 
 #### shift 2
 
-driver: Russell
-navigator: Shelby
-facilitator: Joey
-scout: Tyler
-contributors: Blake, Rajee
+- driver: Russell
+- navigator: Shelby
+- facilitator: Joey
+- scout: Tyler
+- contributors: Blake, Rajee
 
 #### shift 3
 
-driver: Tyler
-navigator: Russell
-facilitator: Shelby
-scout: Blake
-contributors: Rajee, Joey
+- driver: Tyler
+- navigator: Russell
+- facilitator: Shelby
+- scout: Blake
+- contributors: Rajee, Joey
 
 #### shift 4
 
-driver: Blake
-navigator: Tyler
-facilitator: Rusell
-scout: Rajee
-contributors: Joey, Shelby
+- driver: Blake
+- navigator: Tyler
+- facilitator: Rusell
+- scout: Rajee
+- contributors: Joey, Shelby
 
 ##### shift 5
 
-driver: Rajee
-navigator: Blake
-facilitator: Tyler
-scout: Joey
-contributors: Shelby, Russell
+- driver: Rajee
+- navigator: Blake
+- facilitator: Tyler
+- scout: Joey
+- contributors: Shelby, Russell
 
 #### shift 6
 
-driver: Joey
-navigator: Rajee
-facilitator: Blake
-scout: Shelby
-contributors: Tyler, Russell
+- driver: Joey
+- navigator: Rajee
+- facilitator: Blake
+- scout: Shelby
+- contributors: Tyler, Russell
