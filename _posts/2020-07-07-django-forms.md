@@ -22,8 +22,16 @@ Thursday morning we will not have class in order to give you more time to work o
 
 ## Resources
 
+- [Django Form Reference](https://docs.djangoproject.com/en/3.0/ref/forms/)
+- [Django Docs: overriding model form fields](https://docs.djangoproject.com/en/3.0/topics/forms/modelforms/#overriding-the-default-fields)
+- []
 - [Field lookups](https://docs.djangoproject.com/en/3.0/topics/db/queries/#field-lookups)
 - [Django search on multiple fields with Q objects](http://www.learningaboutelectronics.com/Articles/How-to-search-multiple-columns-of-a-database-table-in-Django-with-Q-objects.php)
 - [Python debugger commands](https://docs.python.org/3/library/pdb.html?highlight=debugger#debugger-commands)
 - [Django Debug Toolbar docs](https://django-debug-toolbar.readthedocs.io/en/latest/)
+- [Mob Notes app](https://github.com/momentum-team-2/django-mob-notes)
 - [Clinton's Mixed Pickle Song](https://www.youtube.com/watch?v=gBV7SwuO-_w)
+
+## Class video
+
+- [Morning](https://us02web.zoom.us/rec/share/3edJHp3csVlLWKeV8WzufbQYBZneaaa823Aar_ANmU3lDQhbkCIwJ8sHR21i9Fyc) Access Password: 8E*h^7#2
