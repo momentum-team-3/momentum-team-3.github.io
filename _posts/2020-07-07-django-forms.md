@@ -27,7 +27,7 @@ Thursday morning we will not have class in order to give you more time to work o
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/index.html)
 - [Field lookups](https://docs.djangoproject.com/en/3.0/topics/db/queries/#field-lookups)
 - [Django search on multiple fields with Q objects](http://www.learningaboutelectronics.com/Articles/How-to-search-multiple-columns-of-a-database-table-in-Django-with-Q-objects.php)
-- [Python debugger commands](https://docs.python.org/3/library/pdb.html?highlight=debugger#debugger-commands)
+- [Python debugger commands](https://docs.python.org/3/library/pdb.html#debugger-commands)
 - [Django Debug Toolbar docs](https://django-debug-toolbar.readthedocs.io/en/latest/)
 - [Mob Notes app](https://github.com/momentum-team-2/django-mob-notes)
 - [Clinton's Mixed Pickle Song](https://www.youtube.com/watch?v=gBV7SwuO-_w)
