@@ -26,3 +26,4 @@ Thursday morning we will not have class in order to give you more time to work o
 - [Django search on multiple fields with Q objects](http://www.learningaboutelectronics.com/Articles/How-to-search-multiple-columns-of-a-database-table-in-Django-with-Q-objects.php)
 - [Python debugger commands](https://docs.python.org/3/library/pdb.html?highlight=debugger#debugger-commands)
 - [Django Debug Toolbar docs](https://django-debug-toolbar.readthedocs.io/en/latest/)
+- [Clinton's Mixed Pickle Song](https://www.youtube.com/watch?v=gBV7SwuO-_w)
