@@ -4,30 +4,30 @@ permalink: /presentations/
 layout: default
 ---
 
+# Team Two Technical Presentations
 
-# Phase 1 Technical Presentations
+- Phase 2: *Friday, July 10, 2020 at 1:00 pm*
+- Phase 1: *Thursday, June 11, 2020, at 3:00 pm*
 
-## *Thursday June 11, 2020*
-
-Each student will give a short technical presentation about a project that they worked on during the first phase.
+Each student will give a short technical presentation about a project that they worked on during the previous weeks of the phase.
 
 The talk should be 5-6 minutes long. You'll be speaking to fellow students and the instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
 
 The goals of this presentation are:
 
 - to give you experience talking about your code, as you will do during interviews
-- to demonstrate that you can use the tools taught in Phase 1 to build a dynamic web page or application
-- to recognize how much you have learned, to celebrate how hard you’ve worked, and to show your readiness to move into the next phase of your coding education.
+- to demonstrate that you can use the tools taught in the phase to build a dynamic web page or application
+- to recognize how much you have learned, to celebrate how hard you’ve worked, and to show your readiness to move into the next phase of your coding education
 
 ## Instructions
 
-Choose a JavaScript project that you worked on that shows what you learned about HTML, CSS, and JavaScript.
+Choose a project that you worked on that shows what you learned during the phase.
 
 - The project should be complete and without errors.
   - _Complete_ means that every feature you started to implement is finished. You may not have gotten to absolutely everything specified in the assignment, but the project is working.
   - _Without errors_ means that nothing in the project is broken.
 
-- The project must include JavaScript, so you can choose anything from week 2 on.
+- For Phase 1, the project must include JavaScript, so you can choose anything from week 2 on.
 
 - The size of the project is not important. You should choose a project that you liked doing and that you are excited to talk about.
 
