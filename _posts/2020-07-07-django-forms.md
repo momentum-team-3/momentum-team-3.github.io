@@ -24,7 +24,7 @@ Thursday morning we will not have class in order to give you more time to work o
 
 - [Django Form Reference](https://docs.djangoproject.com/en/3.0/ref/forms/)
 - [Django Docs: overriding model form fields](https://docs.djangoproject.com/en/3.0/topics/forms/modelforms/#overriding-the-default-fields)
-- []
+- [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/index.html)
 - [Field lookups](https://docs.djangoproject.com/en/3.0/topics/db/queries/#field-lookups)
 - [Django search on multiple fields with Q objects](http://www.learningaboutelectronics.com/Articles/How-to-search-multiple-columns-of-a-database-table-in-Django-with-Q-objects.php)
 - [Python debugger commands](https://docs.python.org/3/library/pdb.html?highlight=debugger#debugger-commands)
