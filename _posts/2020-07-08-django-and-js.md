@@ -21,3 +21,9 @@ Habit Tracker or Code Snippets is due Friday at noon. Tonight and tomorrow shoul
 ### ⭐ EXTRA/TMI
 
 - [jQuery](https://jquery.com/) -> This is not something I _recommend_ using right now, but I include it here because a lot of the resources you will encounter about using JavaScript in a web browser will refer to it (like the article listed immediately above). It is not as popular as it once was, and it is incompatible with a framework like React. But you will sometimes come across it, and you may even end up working with it at your job, so you might as well recognize it when you see it and look it up if you ever need it.
+
+
+## Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/yvBSNr7Crk1JbJ2Rq1vxVKhxIoS6aaa8hyMW-6AMn0l20FJKQrGJ4T5i4klUIBRn) Access Password: 7t+T.116
+- [Afternoon](https://us02web.zoom.us/rec/share/wZZ2Pp2hr0BITbfu4VzteLY4OYT4T6a82ykerPcMyEa2CsZpkkxPhFuhbPhtpsta) Access Password: 5v=8Fg5S
