@@ -15,7 +15,7 @@ tags: phase-1 css
 ### Project
 #### Build a Dog Adoption website
 
-[Link to the assignment invitation](https://classroom.github.com/a/XqiU-FtB)
+[Link to the assignment invitation](https://classroom.github.com/a/2345guUx)
 
 This assignment is due on Friday, May 22, at 9:30 am.
 
@@ -25,7 +25,7 @@ This assignment is due on Friday, May 22, at 9:30 am.
 - [CSS-Tricks Getting Started with HTML & CSS](https://css-tricks.com/guides/beginner/)
 - [Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 - [CSS Diner](https://flukeout.github.io/)
-- [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)s
+- [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [The Box Model in CSS](https://adamschwartz.co/magic-of-css/chapters/1-the-box/)
 - [How Box Sizing Works](https://piccalil.li/tutorial/how-css-box-sizing-works/)
@@ -43,6 +43,6 @@ This assignment is due on Friday, May 22, at 9:30 am.
 - [kitten-in-boxes glitch exercise](https://glitch.com/edit/#!/kitten-in-css-boxes?path=README.md%3A1%3A0)
 - [garden store with css example](https://github.com/momentum-team-2/examples/tree/master/garden-store-css)
 - [adorable kitten exercise with css example](https://github.com/momentum-team-2/examples/tree/master/garden-store-css)
-- [morning class video](https://us02web.zoom.us/rec/share/zMBHHp6330ZJX5How2XNSIoTTsfuX6a8gXNN_PoOzEgnsZrhMuaiosxof5YX7LgZ) Access Password: 5o!%v#=*
-- [afternoon class video part 1](https://us02web.zoom.us/rec/share/3NBYF42zyz1JQq_8s2jjc5UIRdvAT6a8gSQa_fsOnxkUyFVDeHvhoiws9pTXGzzI) Access Password: 2g*%H68?
-- [afternoon class video part 2](https://us02web.zoom.us/rec/share/3NBYF42zyz1JQq_8s2jjc5UIRdvAT6a8gSQa_fsOnxkUyFVDeHvhoiws9pTXGzzI?startTime=1590005138000) Access Password: 2g*%H68?
+- [morning class video](https://us02web.zoom.us/rec/share/wuhbKov950hJbZXszk_xZbIrD5i4aaa8gXIf-_tbzBvbK6VemtyGA6g79A5APC_L) Access Password: 7v$52w3#
+- [afternoon class video](https://us02web.zoom.us/rec/share/4cVYK-Hf9z1JE6_d8GbadYBwBLXIT6a81SEb_PcPmRoKJnRdSBdi7ZR2PE4LQ0f9) Access Password: 4u#3H@i6
+
