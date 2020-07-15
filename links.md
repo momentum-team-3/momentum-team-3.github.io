@@ -7,7 +7,7 @@ layout: default
 # Very important links
 
 - [Zoom classroom](https://us02web.zoom.us/j/82176186115)
-- [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09#success)
+- [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09)
 - [Class GitHub organization](https://github.com/momentum-team-3)
 
 
