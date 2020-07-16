@@ -59,3 +59,5 @@ Jen Simmons is a Mozilla developer and educator with a great series on YouTube t
 
 - [class slides PDF](/slide-decks/css-layout.pdf)
 - [flexbox demo code](https://github.com/momentum-team-2/examples/tree/master/css-flexbox)
+- [morning video](https://us02web.zoom.us/rec/share/vfxIcY3rqUhLZoHx1WqFerMOXZvuaaa80XMY_vsImEYcOLE65ft1U_pKEi4jlZk8) Password: 0z.@@*&3
+- [afternoon video](https://us02web.zoom.us/rec/share/tcdTBrrI2jJORJHK9GL5VfImOt_MX6a8gSFK_PUEzBnmdleMiD2OMKmivXkdILLS) Password: 1f!F#D5#
