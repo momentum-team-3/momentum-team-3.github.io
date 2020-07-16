@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to your first day of class
-tags: phase-1 command-line git
+tags: oops
 ---
 
 ### Video
