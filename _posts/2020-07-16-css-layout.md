@@ -18,7 +18,7 @@ tags: phase-1 css layout responsive flexbox
 
 You can start work on this tomorrow, Friday, after you turn in the dog adoption website.
 
-This assignment is due on Tuesday, May 26, at 9:30 am.
+This assignment is due on Tuesday, July 21, at 9:30 am.
 
 ### Links and resources
 
