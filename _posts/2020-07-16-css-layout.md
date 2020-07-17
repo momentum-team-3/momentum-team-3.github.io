@@ -14,7 +14,7 @@ tags: phase-1 css layout responsive flexbox
 
 #### Build a professional portfolio site
 
-[Link to the assignment invitation](https://classroom.github.com/a/xQwMQe42)
+[Link to the assignment invitation](https://classroom.github.com/a/kgXvCoe6)
 
 You can start work on this tomorrow, Friday, after you turn in the dog adoption website.
 
