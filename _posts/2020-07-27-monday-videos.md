@@ -1,6 +1,6 @@
 layout: post
-title: 'Wednesday and Thursday Lecture Videos'
-tags: phase-1 javascript js videos js-basics DOM calculator
+title: 'Monday Lecture Videos'
+tags: phase-1 javascript js forms html form-validation js-basics
 ---
 
 ### Videos
