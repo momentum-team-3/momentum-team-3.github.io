@@ -1,6 +1,6 @@
 layout: post
-title: 'Monday Lecture Videos'
-tags: phase-1 javascript js forms html form-validation js-basics
+title: 'Tuesday Lecture Videos'
+tags: phase-1 javascript js exceptions try/catch html forms
 ---
 
 ### Videos
