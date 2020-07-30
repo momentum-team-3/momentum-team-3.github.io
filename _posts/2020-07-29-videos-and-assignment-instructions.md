@@ -10,8 +10,8 @@ The link below is to a near-copy of the assignment you've been working on, but w
 
 
 ### Videos
-- [Tuesday Morning Video](https://us02web.zoom.us/rec/share/6s9IDZXh2VNOHqfkwWzuX5UGQYPPT6a81SYd-vtezkmz44Dv0nMqrcG3DFQljtWp)
+- [Wednesday Morning Video](https://us02web.zoom.us/rec/share/6s9IDZXh2VNOHqfkwWzuX5UGQYPPT6a81SYd-vtezkmz44Dv0nMqrcG3DFQljtWp)
   - Password: p3V=e9i=
-- [Tuesday Afternoon Video](https://us02web.zoom.us/rec/share/6JNqA4DazGBOaaPEs2vRBPcMAZa4eaa8hiJN8qVeyUdJQCoF4bCn54BrW6Yi7IKb)
+- [Wednesday Afternoon Video](https://us02web.zoom.us/rec/share/6JNqA4DazGBOaaPEs2vRBPcMAZa4eaa8hiJN8qVeyUdJQCoF4bCn54BrW6Yi7IKb)
   - Password: jGL9IQ.Q
   
