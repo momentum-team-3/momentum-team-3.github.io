@@ -9,7 +9,7 @@ layout: default
 - [Zoom classroom](https://us02web.zoom.us/j/82176186115)
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09)
 - [Class GitHub organization](https://github.com/momentum-team-3)
-
+- [Examples Repo](https://github.com/momentum-team-3/examples)
 
 ## Guidelines and other meta-documentation
 
