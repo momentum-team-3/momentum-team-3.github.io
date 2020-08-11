@@ -17,30 +17,30 @@ These dates are speculative/ideal. We may cover more than is indicated here (but
 		- differences between Python 2 and Python 3
 		- variables
 		- arithmetic expressions
-		- simple statements: `if`, `while`, and `def`
-		- input and output: `input` and `print`
+		- simple statements: ```if```, ```while```, and ```def```
+		- input and output: ```input()``` and ```print```
 
 
 #### Tuesday, August 11th and Wednesday, August 12th
 	* Introduction to sequences
-		- sequence types: `list`, `tuple`, `str`, and `dict`
-		- sequence keywords: `for`, `in`
+		- sequence types: ```list```, ```tuple```, ```str```, and ```dict```
+		- sequence keywords: ```for```, ```in```
 		- indexing and slicing
 		
 	* Introduction to files
-		- basics: `open`, `read`, `write`
+		- basics: ```open```, ```read```, ```write```
 		- file modes: "r", "w", "a", "r+", "w+", "a+"
-		- context managers: `with`, `as`
+		- context managers: ```with```, ```as```
 		- treating files as sequences
 
 
 #### Thursday, August 13th
 	* modules and importing
-		- the `import` keyword
+		- the ```import``` keyword
 		
 	* exceptions
-		- creating exceptions: `raise` and `Exception`
-		- dealing with exceptions: `try` and `except`
+		- creating exceptions: ```raise``` and ```Exception```
+		- dealing with exceptions: ```try``` and ```except```
 		
 	* using modules to structure big projects
 
@@ -53,8 +53,8 @@ These dates are speculative/ideal. We may cover more than is indicated here (but
 		- inheritance (don't repeat yourself)
 		- instances and classes
 		
-	* Object-oriented programming in Python with `class`
-		- `class` quirks: understanding `self` and `__init__` 
+	* Object-oriented programming in Python with ```class```
+		- ```class``` quirks: understanding ```self``` and ```__init__``` 
 		- defining methods
 		- creating subclasses
 

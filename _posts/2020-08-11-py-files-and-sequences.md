@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Sequences and Files
-tags: phase-2 python sequences lists tuples files
+tags: phase-2 python sequences lists tuples files comprehensions
 ---
 
 We can use the generic term _sequence_ for any object that provides an ordered structure for a number of items, such as a string (a group of characters), a list, or a dictionary (keys and values).
@@ -9,11 +9,12 @@ We can use the generic term _sequence_ for any object that provides an ordered s
 ## Today's topics
 
 - Bread & butter sequence types: `list`, `str`, `tuple`, and `dict`
-- Sequence keywords: `for` and `in`
+- Basic sequence keywords and operations: `for` and `in`
 - Working with files
 
 ## Tomorrow's topics
 
+- Advanced indexing and slicing
 - Comprehensions for lists, dicts, and generators
 - Important sequence methods
 
