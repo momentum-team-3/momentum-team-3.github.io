@@ -11,7 +11,7 @@ layout: default
 
 ## Learning References
 - [Examples Repo](https://github.com/momentum-team-3/examples)
-- [Python Cheat Sheet and Reference Links]()
+- [Python Cheat Sheet and Reference Links](https://momentum-team-3.github.io/2020/08/12/python-cheat-sheet/)
 
 ## Guidelines and other meta-documentation
 
