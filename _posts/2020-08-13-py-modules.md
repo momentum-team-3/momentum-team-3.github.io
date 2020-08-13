@@ -48,7 +48,7 @@ Don't forget to use your print statements to give you necessary information as y
 
 ### Project
 
-[Mystery Word](https://classroom.github.com/g/gUvUaCN1)
+[Mystery Word](https://classroom.github.com/g/yiygoPXt)
 
 ### Resources
 
