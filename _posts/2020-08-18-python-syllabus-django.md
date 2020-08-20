@@ -48,8 +48,10 @@ Syllabus Part 2, featuring Django
 #### Django Assignments
 (these are links to the assignment repo for you to preview, not assignment invitations) - note that you are given plenty of time for these projects!
 
+* [Django Uptact](https://github.com/momentum-assignments/django--uptact)
+* [Django Music Collection](https://github.com/momentum-assignments/django--music)
 * [Django Notes App](https://github.com/momentum-assignments/django--notes-app)
-* [Django Project 2](https://github.com/momentum-assignments/django--notes-app)
+* [Django Project 2](https://github.com/momentum-assignments/django--group-project)
 
 #### Background Material
 * [How the Web Works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
