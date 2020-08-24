@@ -10,3 +10,4 @@ tags: phase-2 python django backend templates model view
   - Password: jvs&1%d.
 - [Thursday Afternoon Video](https://us02web.zoom.us/rec/share/7_RWKLfoqW5LGLfot3PSZooDRr3IX6a8gyhLq_IEn0b5DOmgTyNhYzlDjEKb0kCK)
   - Password: Ph9+umd+
+  
