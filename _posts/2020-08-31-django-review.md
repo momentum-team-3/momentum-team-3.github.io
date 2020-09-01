@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Django Review
-tags: phase-2 django
+title: 'Django Review'
+tags: phase-2 python django
 ---
 
 Today we're not introducing anything new, but we will test our understanding and assumptions about django and do some live coding in class together. We'll also practice reading errors, debugging, and getting back on track when it feels like you're not making progress.
