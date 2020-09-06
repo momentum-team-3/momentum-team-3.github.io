@@ -10,7 +10,7 @@ Today we're not introducing anything new, but we will test our understanding and
 
 We're going to live code together in class using a practice called _mob programming_. This is like pair programming, with more than two people but still only one computer. We produce code as a group and everyone participates in figuring out what the code should be.
 
-[Mob programming exercise and rules]({% link mob-programming-assignment-rules.md %})
+[Mob programming exercise and rules](mob-programming-assignment-rules.md)
 
 ## Resources
 
