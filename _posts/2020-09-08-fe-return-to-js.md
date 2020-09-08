@@ -26,4 +26,5 @@ By the end of today, you need to make sure you have the following set up on your
 
 ## Resources
 
+- [ES2015+ cheat sheet](https://devhints.io/es6)
 - [JavaScript equality table](https://dorey.github.io/JavaScript-Equality-Table/)
