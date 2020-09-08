@@ -15,5 +15,5 @@ Your project for the week will be [Question Box](https://classroom.github.com/a/
 ## Resources
 
 - [Checklist for deploying to Heroku](https://github.com/momentumlearn/student-resources/blob/main/articles/deploy-django-to-heroku.md)
-
+- [Django Recipes example app](https://github.com/momentum-team-3/example--django-recipes)
 
