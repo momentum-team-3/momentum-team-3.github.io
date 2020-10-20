@@ -18,3 +18,8 @@ layout: default
 
 - [Student guidelines](https://drive.google.com/open?id=17j7lH4BTArHwF9TMN9bzDO05REuXflpYCa8JnV1KDLI&authuser=1)
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
+
+## Phase 4: The Final Week!
+
+- [Detailed schedule]({% link phase-4-schedule.md %})
+- [Presentation Prep Guide]({% link phase-4-demos.md %})
