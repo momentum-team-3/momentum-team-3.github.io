@@ -23,3 +23,4 @@ layout: default
 
 - [Detailed schedule]({% link phase-4-schedule.md %})
 - [Presentation Prep Guide]({% link phase-4-demos.md %})
+- [Requirements for Presentation Day from Katie](https://docs.google.com/document/d/1yP_ND7LlOlm4aK-0R7J_TwWG5iiQFaGylZXKlGa0hhI/edit?usp=sharing)

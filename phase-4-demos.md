@@ -27,13 +27,13 @@ This is your public debut as a technologist. Show your confidence, enthusiasm, a
 
 ### Screencast & App Description
 
-Record a 10-minute screencast that demos your app's features. You and your team will talk while the screencast is playing. You can record a screencast easily in QuickTime (which should already be on your Mac). The video format should be `.mov`.
+Record a 5-minute screencast that demos your app's features. You and your team will talk while the screencast is playing. You can record a screencast easily in QuickTime (which should already be on your Mac). The video format should be `.mov`.
 
 Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
 
-Upload your final video and decription (AND APP NAME!) to the Google Drive folder below by **Thursday, October 29 at 2:00 pm**.
+Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, October 29 at 2:00 pm**.
 
-- [Google Drive folder TBD]()
+- [Google Drive folder](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing)
 
 ### Topics to include in your presentation
 
