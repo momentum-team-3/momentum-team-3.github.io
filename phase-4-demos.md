@@ -10,9 +10,10 @@ Your team has 5-6 minutes of presentation time, followed by 10-15 minutes of Q&A
 
 _Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions.
 
-## Example of Presentations
+## Examples of Presentations
 
-[This is a Zoom recording of the presentations](https://us02web.zoom.us/rec/play/65MsI7-o_z03EtKWsgSDBPF5W9Xvequs0SEd_6VemUe0ASVRN1f1ZuYXZ-H2_-T8ccQp0VjD-0btYf9g?startTime=1596808567000) from Team One on August 7, 2020. (Password: J3pFtd!3)
+- [Team One Presentation Day (August 2020)](https://us02web.zoom.us/rec/play/65MsI7-o_z03EtKWsgSDBPF5W9Xvequs0SEd_6VemUe0ASVRN1f1ZuYXZ-H2_-T8ccQp0VjD-0btYf9g?startTime=1596808567000) (Password: J3pFtd!3)
+- [Team Two Presentation Day (September 2020)](https://us02web.zoom.us/rec/share/HRN1qN11i5OuY6cS9S8O4mGfn0-cwZbaPPCRO9861W-77wH-YBeQKvO7aDZkZtBs.N09hjeocw3OvewZj) (Password: V^9egNx4)
 
 ## Tell the story of your app and your team
 
