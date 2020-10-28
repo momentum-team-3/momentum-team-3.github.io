@@ -34,10 +34,10 @@ layout: default
 - **Final rehearsal with staff**
   - All teams together
   - 11:30-12:30 pm
-- **Final screencast video & app blurb due to Katie** @2:00 pm ([Google Drive link TBD]())
+- **Final screencast video & app blurb due to Katie** @2:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
 - **Tech check & run-through** @3:15-4:00 pm ([Zoom link TBD]())
 
 ### Friday October 30
 
 - **Presentations** @12:00-1:00 pm ([Zoom link TBD]())
-- **Graduation** @1:00-2:00 pm ([Zoom link TBD]())
+- **Graduation** @1:00-2:00 pm ([Zoom link](https://us02web.zoom.us/j/84761284389?pwd=K3NRUjZQUU11WVh5YWxiUktoRXJNZz09))

@@ -6,7 +6,7 @@ layout: default
 
 # Demo Presentation Guide
 
-Your team has 10 minutes of presentation time, followed by 15 minutes of Q&A time with panelists.
+Your team has 5-6 minutes of presentation time, followed by 10-15 minutes of Q&A time with panelists. Each developer on the team should have about 2 minutes to talk.
 
 _Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions.
 
