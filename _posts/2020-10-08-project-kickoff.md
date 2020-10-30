@@ -31,7 +31,7 @@ Today should be used for finalizing planning and doing research on data, technol
 - What URLs will the front end need?
 - What data will the front end request?
   - Are you returning HTML? -> What templates does the front end need, and who will make those?
-  - Are you returning JSON? -? How will you structure your data?
+  - Are you returning JSON? -> How will you structure your data?
 - Deploy early and often -- who will deploy? Make sure more than one person on your team has the ability to do this.
 - Consider appointing a rotating team lead who can be responsible for running standup, leading at check-in, and looking after the Trello board.
 
